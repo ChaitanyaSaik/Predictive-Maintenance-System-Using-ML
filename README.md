@@ -295,6 +295,3 @@ Automated alert systems
 # License
 
 This project is released under the MIT License.
-pypandoc.convert_text(content, "md", format="md", outputfile=path, extra_args=["--standalone"])
-
-path
